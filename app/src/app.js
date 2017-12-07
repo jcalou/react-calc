@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
+import ReactPoint from 'react-point';
 import './styles.css';
 
 const PointTarget = ReactPoint.PointTarget

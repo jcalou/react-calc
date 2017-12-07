@@ -3,11 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "react": "^16.2.0",
-    "react-dom": "^16.2.0",
+    "react": "^15.3.0",
+    "react-dom": "^15.3.0",
     "react-scripts": "1.0.17",
     "number-to-locale-string": "1.0.1",
-    "react-point": "2.0.0"
+    "react-point": "^2.0.0"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
